@@ -30,6 +30,4 @@ When you're satisified, upload your changes to the GitHub dev repo.
 
 	git push origin dev
 
-Finally, you'll go to the GitHub page and submit a pull request with more details. One of the admins will review your request and add it to the dev branch.
-
-The master branch matches the R-devel version, and is not updated until R core has reviewed changes.
+Finally, you'll go to the GitHub page and submit a pull request with more details. One of the admins will review your request and add it to the master branch.
