@@ -36,7 +36,7 @@ or \code{NULL} if there is no name.
 that can construct a name if none is found.
 }
 \examples{
-packageName()
-packageName(environment(mean))
+packageName() # This returns a NULL 
+packageName(environment(mean)) # This should return "base"
 }
 \keyword{ utilities }
